@@ -4,13 +4,13 @@ My solutions for [Advent of Code 2025](https://adventofcode.com/2025) - 12 days 
 
 ## Progress
 
-Total Stars: ⭐ 0/24
+Total Stars: ⭐ 2/24
 
 ## Solutions
 
 | Day | Status | Stars | Problem | Solution |
 |-----|--------|-------|---------|----------|
-| [Day 1](./Day1) | Not Started | ☆☆ | TBD | [Link](./Day1/README.md) |
+| [Day 1](./Day1) | Complete | ⭐⭐ | Secret Entrance | [Link](./Day1/README.md) |
 | [Day 2](./Day2) | Not Started | ☆☆ | TBD | [Link](./Day2/README.md) |
 | [Day 3](./Day3) | Not Started | ☆☆ | TBD | [Link](./Day3/README.md) |
 | [Day 4](./Day4) | Not Started | ☆☆ | TBD | [Link](./Day4/README.md) |
@@ -26,7 +26,8 @@ Total Stars: ⭐ 0/24
 ## Repo Structure
 
 Each day's folder contains:
-- `solution.cpp` - C++ implementation
-- `README.md` - Problem statement and approach
+- `README.md` - Problem statement and approach for both parts
 - `input.txt` - Puzzle input
 - `example.txt` - Example input from problem description
+- `part1/solution.cpp` - Part 1 C++ implementation
+- `part2/solution.cpp` - Part 2 C++ implementation
