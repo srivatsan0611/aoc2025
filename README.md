@@ -4,14 +4,14 @@ My solutions for [Advent of Code 2025](https://adventofcode.com/2025) - 12 days 
 
 ## Progress
 
-Total Stars: ⭐ 2/24
+Total Stars: ⭐ 4/24
 
 ## Solutions
 
 | Day | Status | Stars | Problem | Solution |
 |-----|--------|-------|---------|----------|
 | [Day 1](./Day1) | Complete | ⭐⭐ | Secret Entrance | [Link](./Day1/README.md) |
-| [Day 2](./Day2) | Not Started | ☆☆ | TBD | [Link](./Day2/README.md) |
+| [Day 2](./Day2) | Complete | ⭐⭐ | Gift Shop | [Link](./Day2/README.md) |
 | [Day 3](./Day3) | Not Started | ☆☆ | TBD | [Link](./Day3/README.md) |
 | [Day 4](./Day4) | Not Started | ☆☆ | TBD | [Link](./Day4/README.md) |
 | [Day 5](./Day5) | Not Started | ☆☆ | TBD | [Link](./Day5/README.md) |
