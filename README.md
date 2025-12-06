@@ -4,7 +4,7 @@ My solutions for [Advent of Code 2025](https://adventofcode.com/2025) - 12 days 
 
 ## Progress
 
-Total Stars: ⭐ 10/24
+Total Stars: ⭐ 12/24
 
 ## Solutions
 
@@ -15,7 +15,7 @@ Total Stars: ⭐ 10/24
 | [Day 3](./Day3) | Complete | ⭐⭐ | Lobby | [Link](./Day3/README.md) |
 | [Day 4](./Day4) | Complete | ⭐⭐ | Printing Department | [Link](./Day4/README.md) |
 | [Day 5](./Day5) | Complete | ⭐⭐ | Cafeteria | [Link](./Day5/README.md) |
-| [Day 6](./Day6) | Not Started | ☆☆ | TBD | [Link](./Day6/README.md) |
+| [Day 6](./Day6) | Complete | ⭐⭐ | Trash Compactor | [Link](./Day6/README.md) |
 | [Day 7](./Day7) | Not Started | ☆☆ | TBD | [Link](./Day7/README.md) |
 | [Day 8](./Day8) | Not Started | ☆☆ | TBD | [Link](./Day8/README.md) |
 | [Day 9](./Day9) | Not Started | ☆☆ | TBD | [Link](./Day9/README.md) |
