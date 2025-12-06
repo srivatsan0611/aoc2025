@@ -53,15 +53,39 @@ This represents 4 problems:
 
 ## Part 2
 
-**Goal:** [To be filled]
+**Goal:** Parse the vertical math worksheet using the correct cephalopod math format (right-to-left, vertical digits), calculate each problem's result, and find the sum of all results.
 
 ### Example
 
-[To be filled with Part 2 example]
+Given the same input as Part 1:
+```
+123 328  51 64
+ 45 64  387 23
+  6 98  215 314
+*   +   *   +
+```
+
+But now reading right-to-left with each column as a vertical number (top = most significant digit):
+- Rightmost problem: 4 + 431 + 623 = 1058
+- Second from right: 175 * 581 * 32 = 3253600
+- Third from right: 8 + 248 + 369 = 625
+- Leftmost: 356 * 24 * 1 = 8544
+
+**Grand total: 3263827**
 
 ### Approach
 
-[To be filled with Part 2 solution approach]
+1. Parse input and process columns from right-to-left
+2. For each column, read digits vertically to form a number (top-to-bottom = most-to-least significant)
+3. Group consecutive non-space columns into problems (problem ends when operation symbol is found)
+4. Apply the operation to all numbers in each problem
+5. Sum all problem results to get the grand total
+
+**Key Details:**
+- Columns are processed right-to-left (reverse order from Part 1)
+- Each column represents a vertical number with digits stacked top-to-bottom
+- Problems are still separated by space-only columns
+- Need to handle digit-to-number conversion for vertical columns
 
 ---
 
