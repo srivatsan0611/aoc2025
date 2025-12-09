@@ -1,0 +1,1 @@
+# Paste your own AoC input here to run the compiled solution
