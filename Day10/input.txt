@@ -1,0 +1,1 @@
+# Paste your own Aoc Input here to run the compiled solution.
