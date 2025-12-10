@@ -4,7 +4,7 @@ My solutions for [Advent of Code 2025](https://adventofcode.com/2025) - 12 days 
 
 ## Progress
 
-Total Stars: ⭐ 18/24
+Total Stars: ⭐ 20/24
 
 ## Solutions
 
@@ -19,7 +19,7 @@ Total Stars: ⭐ 18/24
 | [Day 7](./Day7) | Complete | ⭐⭐ | Laboratories | [Link](./Day7/README.md) |
 | [Day 8](./Day8) | Complete | ⭐⭐ | Playground | [Link](./Day8/README.md) |
 | [Day 9](./Day9) | Complete | ⭐⭐ | Movie Theater | [Link](./Day9/README.md) |
-| [Day 10](./Day10) | Not Started | ☆☆ | TBD | [Link](./Day10/README.md) |
+| [Day 10](./Day10) | Not Started | ⭐⭐ | Factory | [Link](./Day10/README.md) |
 | [Day 11](./Day11) | Not Started | ☆☆ | TBD | [Link](./Day11/README.md) |
 | [Day 12](./Day12) | Not Started | ☆☆ | TBD | [Link](./Day12/README.md) |
 
