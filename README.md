@@ -4,7 +4,7 @@ My solutions for [Advent of Code 2025](https://adventofcode.com/2025) - 12 days 
 
 ## Progress
 
-Total Stars: ⭐ 22/24
+Total Stars: ⭐ 24/24 (Complete!)
 
 ## Solutions
 
@@ -21,13 +21,15 @@ Total Stars: ⭐ 22/24
 | [Day 9](./Day9) | Complete | ⭐⭐ | Movie Theater | [Link](./Day9/README.md) |
 | [Day 10](./Day10) | Complete | ⭐⭐ | Factory | [Link](./Day10/README.md) |
 | [Day 11](./Day11) | Complete | ⭐⭐ | Reactor | [Link](./Day11/README.md) |
-| [Day 12](./Day12) | Not Started | ☆☆ | TBD | [Link](./Day12/README.md) |
+| [Day 12](./Day12) | Complete | ⭐⭐ | Christmas Tree Farm | [Link](./Day12/README.md) |
 
 ## Repo Structure
 
-Each day's folder contains:
+Each day's folder usually contains:
 - `README.md` - Problem statement and approach for both parts
 - `input.txt` - Puzzle input
 - `example.txt` - Example input from problem description
 - `part1/solution.cpp` - Part 1 C++ implementation
 - `part2/solution.cpp` - Part 2 C++ implementation
+
+This is with the exception of **Day 12** which just had one fun question :) 
